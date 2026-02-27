@@ -9,14 +9,14 @@ A simple Node.js CLI app that converts a user-provided URL into a QR code image 
 2. Clone the repository:
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/supreetvardhamane/node-qr-generator.git
 cd node-qr-generator
 ```
 
 3. Install dependencies:
 
 ```bash
-npm install
+npm install inquirer qr-image
 ```
 
 4. Run the app:
